@@ -32,7 +32,7 @@ java -jar target/jdbc-mysql-example-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 혹은 `Intellij`와 `Eclipse`에서 `Maven`을 설정하신 뒤, 바로 실행하셔도 무방합니다.
 
-실행시키기 전에 꼭 MySQL 서버를 켜주시고(혹은 MySQL Benchwork을 실행), `jdbc_example_university` Database를 생성한 뒤, 실행시켜주세요.
+실행시키기 전에 꼭 MySQL 서버를 켜주시고(혹은 MySQL Workbench을 실행), `jdbc_example_university` Database를 생성한 뒤, 실행시켜주세요.
 
 ## MySQL ID & Password
 MySQL의 ID와 Password는 코드 내부에 하드코딩 되어 있습니다...
